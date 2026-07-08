@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+%2F+ML+Engineer;Perception+%26+Autonomous+Driving;Sensor+Fusion+%C2%B7+Point+Clouds+%C2%B7+Calibration;Building+things+in+Unity+%2F+Blender+on+the+side" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Software+%2F+ML+Engineer;Perception+%26+Autonomous+Driving;Sensor+Fusion+%C2%B7+Point+Clouds+%C2%B7+Calibration;Building+things+in+Unity+%2F+Blender+on+the+side" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ### About
 
-Software / ML Engineer working on data pipelines and perception systems for autonomous driving — sensor fusion, point clouds, calibration, and the occasional neural net. Based in Germany.
+Software / ML Engineer working on data pipelines and perception systems for autonomous driving - sensor fusion, point clouds, calibration, and the occasional neural net. Based in Germany.
 
 I like turning messy real-world sensor data into something a model can actually trust.
 
