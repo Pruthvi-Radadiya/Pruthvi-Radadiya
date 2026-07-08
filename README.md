@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Software+%2F+ML+Engineer;Perception+%26+Autonomous+Driving;Sensor+Fusion+%C2%B7+Point+Clouds+%C2%B7+Calibration;Building+things+in+Unity+%2F+Blender+on+the+side" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+%2F+ML+Engineer;Perception+%26+Autonomous+Driving;Sensor+Fusion+%C2%B7+Point+Clouds+%C2%B7+Calibration;Building+things+in+Unity+%2F+Blender+on+the+side" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvi-radadiya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pruthviradadiya97@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pruthvi-Radadiya)
 
 </div>
 
@@ -34,30 +40,22 @@ Multi-agent RL (MAPPO, CTDE) for autonomous swarm path planning in Unity ML-Agen
 Blender + Unity, exploring MCP-driven tooling in the build pipeline.
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pruthvi-Radadiya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="100%"/>
+**Tech stack**
 
-<img src="https://streak-stats.demolab.com?user=Pruthvi-Radadiya&theme=dark&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="100%"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,cs,pytorch,tensorflow,docker,kubernetes,gitlab,mongodb,blender&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/ROS%2FROS2-22314E?style=flat&logo=ros&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-Radadiya&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="100%"/>
+<br/><br/>
+
+**Contribution snake** 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pruthvi-Radadiya/Pruthvi-Radadiya/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pruthvi-Radadiya/Pruthvi-Radadiya/output/github-contribution-grid-snake.svg">
+</picture>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=python,cpp,csharp,pytorch,tensorflow,opencv,unity,blender,docker,kubernetes,gitlab,mongodb&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-📫 [LinkedIn](https://www.linkedin.com/in/pruthvi-radadiya) · pruthviradadiya97@gmail.com
-
-</div>
