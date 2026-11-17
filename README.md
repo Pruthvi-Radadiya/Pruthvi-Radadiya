@@ -18,26 +18,25 @@
 
 ### About
 
-Software / ML Engineer working on data pipelines and perception systems for autonomous driving - sensor fusion, point clouds, calibration, and the occasional neural net. Based in Germany.
+Software / ML engineer working on perception, data pipelines and robotics. Background in autonomous driving (sensor fusion, point clouds, calibration), now building multi-robot and 3D reconstruction projects. Based in Germany.
 
 I like turning messy real-world sensor data into something a model can actually trust.
 
 **Currently**
 - 🔍 Open to Robotics/Perception, Software, and ML Engineering roles
 - 🛰️ Building a synthetic perception data pipeline (OpenStreetMap → Cesium → Unity)
-- 🤖 Training a multi-agent RL swarm for coverage & path planning
+- 🤖 Building multi-robot swarm for coverage & search operation
 - 🎮 Building a Tron-inspired game in Unity/Blender, on the side
 
 **Featured projects**
 
+→ [**Swarm Search**](https://github.com/Pruthvi-Radadiya/swarm-search) Three TurtleBot3 robots build one shared map with SLAM and Nav2, then explore an unknown indoor space on their own using frontier detection and goal assignment. ROS 2, Gazebo.
+
+→ [**3D Gaussian Splatting to Mesh**](https://github.com/Pruthvi-Radadiya/gaussian-splatting-pipeline) Phone video and photos to a textured mesh with COLMAP, nerfstudio, SuGaR and Blender.
+
 → [**Geospatial Synthetic Data Pipeline**](https://github.com/Pruthvi-Radadiya/Geospatial-Synthetic-Data-Generation)
 Real-world geospatial data → simulation-ready 3D scenes. Cesium + OpenStreetMap + Unity Perception, multi-modal ground truth (RGB, depth, segmentation, 3D boxes).
 
-→ **MARL Swarm Coverage** *(in progress)*
-Multi-agent RL (MAPPO, CTDE) for autonomous swarm path planning in Unity ML-Agents.
-
-→ **Tron-Inspired Game** *(in progress)*
-Blender + Unity, exploring MCP-driven tooling in the build pipeline.
 
 </td>
 <td width="40%" valign="top" align="center">
